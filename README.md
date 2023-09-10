@@ -4,7 +4,6 @@ a docker-compose to use jenkins
 use *docker-compose up --build* to make the container up and use the jenkins
 
 ## Perform a series of preliminary settings for jenkins
-![alt text]([http://url/to/img.png](https://i.stack.imgur.com/rhWAq.png)
 
 you should go to your container with this command *docker exec -it jenkins bash* you can run some commands in your container 
 
